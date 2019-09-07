@@ -1,0 +1,90 @@
+
+.sux1 {
+	height: 45px;
+	width: 120px;
+	font-size: 44px;
+	background: linear-gradient(45deg, #fefcea, #f1da36);
+	border-radius: 21px;
+	overflow: hidden;
+			}
+.sux1:hover 	{
+	height: 45px;
+	width: 120px;
+	font-size: 44px;
+	background: linear-gradient(45deg, #f1da36, #fefcea);
+	border-radius: 21px;
+	overflow: hidden;
+			}
+			
+.sux2 {
+	height: 45px;
+	width: 120px;
+	font-size: 44px;
+	display: table-cell;
+	vertical-align: middle;
+	background: linear-gradient(-45deg, #0f0, #808000);
+	border-radius: 16px;
+	overflow: hidden;
+	}
+	
+.sux2:hover {
+	height: 45px;
+	width: 120px;
+	font-size: 44px;
+	display: table-cell;
+	vertical-align: middle;
+	background: linear-gradient(45deg, #0f0, #808000);
+	border-radius: 16px;
+	overflow: hidden;
+	}
+	
+.sux3 {
+	
+	height: 45px;
+	width: 120px;
+	font-size: 52px;
+	line-height: 45px;
+	box-sizing: border-box;
+	background: linear-gradient(to top, #bed5f5 0%, #68afef 36%, #045788 100%);
+	border-radius: 10px;
+	overflow: hidden;
+	
+	}
+	
+.sux3:hover {
+	
+	height: 45px;
+	width: 120px;
+	font-size: 52px;
+	line-height: 45px;
+	box-sizing: border-box;
+	background: linear-gradient(to bottom, #bed5f5 0%, #68afef 36%, #045788 100%);
+	border-radius: 10px;
+	overflow: hidden;
+		}
+	
+.sux4 {
+	
+	background: linear-gradient(to top, #5c5c5c, #efe2e2cc);
+	font-size: 39px;
+	height: 45px;
+	width: 120px;
+	overflow: hidden;
+	line-height: 45px;
+	border-radius: 5px;
+	box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.8);
+		}
+	
+.sux4:hover {
+	
+	background: linear-gradient(to bottom, #5c5c5c, #efe2e2cc);
+	text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+	font-size: 37px;
+	height: 45px;
+	width: 120px;
+	overflow: hidden;
+	line-height: 45px;
+	border-radius: 5px;
+	margin-top: 3px;
+	box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+	}
